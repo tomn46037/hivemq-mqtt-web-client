@@ -1,2 +1,2 @@
-websocketserver = 'broker.mqttdashboard.com';
-websocketport = 8000;
+websocketserver = 'iq-colo.sneaky.net';
+websocketport = 8084;
